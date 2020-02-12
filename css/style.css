@@ -1,0 +1,158 @@
+body{
+  color: #40514E;
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 60px;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Satisfy', cursive;
+  color: #66BFBF;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Satisfy', cursive;
+  color: #11999E;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width : 4%;
+  margin: 100px auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.top-container{
+  background-color: #e0ebe8;
+  height: 200px;
+  padding: 200px;
+}
+
+.middle-container{
+  padding : 50px 0;
+}
+
+.bottom-container{
+  padding: 50px 50px;
+}
+
+.intro{
+  width: 30%;
+  margin:auto;
+}
+
+
+.top-cloud{
+  position : absolute;
+  right : 300px;
+  top : 100px;
+}
+
+.bottom-cloud{
+  position : absolute;
+  left : 100px;
+  bottom : 100px;
+}
+
+.mountain{
+  margin: 0;
+}
+
+.para{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-weight : normal;
+}
+
+.aj:hover {
+  background-color: #00ffbf;
+  border-radius:50% ;
+}
+
+a{
+  color : #11999E ;
+  margin: 20px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #00ffbf;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+
+  }
+
+  .code{
+    width: 25%;
+    float : left;
+    margin : 30px;
+  }
+
+  .books{
+    width: 25%;
+    float: right;
+    margin : 30px;
+  }
+
+.contact-me{
+  font-family: 'Merriweather', serif;
+  margin: 100px 500px;
+  margin-top: 200px;
+  margin-right: 500px;
+  margin-bottom: 100px;
+  margin-left: 500px;
+}
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#EAF6F6;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom,#11999E 5%, #11999E 100%);
+	background-color:#11999E;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+  .bottom-container{
+    background-color:#66BFBF;
+    padding: 25px;
+  }
+
+  .ajay{
+    color: #EAF6F6;
+    padding: 20px;
+  }
